@@ -16,6 +16,5 @@ I'm a passionate full-stack developer based in Myanmar 🇲🇲
 - Mobile development with Flutter
 
 ## 📫 Connect With Me
-- 📧 Email: kayzin@example.com
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: kayzinkhaing1331@example.com
+- 🌐 Portfolio: 
