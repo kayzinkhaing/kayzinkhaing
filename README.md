@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Kay Zin Khaing
 
-<!--
-**kayzinkhaing/kayzinkhaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer based in Myanmar 🇲🇲
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- 💻 PHP, Laravel, JavaScript, Vue.js
+- 🛠️ Git, GitHub, VS Code, Postman
+- 🗃️ MySQL, Firebase, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![KayZin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayzinkhaing&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+- Docker & DevOps tools
+- Advanced React
+- Mobile development with Flutter
+
+## 📫 Connect With Me
+- 📧 Email: kayzin@example.com
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
