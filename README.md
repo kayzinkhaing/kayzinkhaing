@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌍_Location-Yangon%2C%20Myanmar-A78BFA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💼_Experience-+2%2B%20Years-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼_Experience-2%2B%20Years-EC4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎓_Education-B.C.Sc-8B5CF6?style=for-the-badge" />
 </p>
 <div align="center">
